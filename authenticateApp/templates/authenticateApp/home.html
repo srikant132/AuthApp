@@ -1,0 +1,19 @@
+ {%  extends 'authenticateApp/base.html' %}
+
+
+{% block content %}
+
+ <h2 class="text-center">This is the home page</h2>
+       {% if user.is_authenticated %}
+     <div class="jumbotron col-md-6 offset-md-3">
+       <p>Name:{{ use.first_name }} {{ user.last_name }}</p>
+       <p>Username:{{ user.username }}</p>
+       <p>Email:{{ user.email }}</p
+
+       <hr class="my-4">
+       {% endif %}
+     </div>
+
+
+
+{% endblock %}
