@@ -2,32 +2,32 @@
 <div>
 <img src="image/FirstPage.png">
 </div>
-<b> Register Page </b>
+<h1><b> Register Page </b><h1>
 <hr>
 <div>
 <img src="image/register.png">
 </div>
-<b> Login Page </b>
+<h1><b> Login Page </b><h1>
 <hr>
 <div>
 <img src="image/login.png">
 </div>
-<b> LoggedIn Page </b>
+<h1><b> LoggedIn Page </b></h1>
 <hr>
 <div>
 <img src="image/loggedIn.png">
 </div>
-<b> Edit Profile page </b>
+<h1><b> Edit Profile page </b></h1>
 <hr>
 <div>
 <img src="image/EditProfile.png">
 </div>
-<b> Change Password page </b>
+<h1><b> Change Password page </b></h1>
 <hr>
 <div>
 <img src="image/changePassword.png">
 </div>
-<b> LoggedOut page </b>
+<h1><b> LoggedOut page </b></h1>
 <hr>
 <div>
 <img src="image/loggedOut.png">
